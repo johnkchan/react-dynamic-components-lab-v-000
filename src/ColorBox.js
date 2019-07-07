@@ -8,8 +8,8 @@ export default class ColorBox extends Component {
           <div className="color-box" style={{opacity: 2}}>
             {this.props.opacity}
           </div>
+        )
       }
-    )
   }
 
 }
