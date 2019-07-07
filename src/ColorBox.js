@@ -9,7 +9,7 @@ export default class ColorBox extends Component {
           {this.props.opacity}
 
         </div>
-      )
+      );
     } else {
       return null;
     }
