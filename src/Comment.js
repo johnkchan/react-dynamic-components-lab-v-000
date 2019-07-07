@@ -5,7 +5,7 @@ export default class Comment extends Component {
 
   render() {
     return (
-      <div className="color-box" style={{opacity: 2}}>
+      <div>
         {/* your conditional code here! */}
       </div>
     )
