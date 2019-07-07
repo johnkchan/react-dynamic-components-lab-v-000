@@ -10,6 +10,10 @@ export default class ColorBox extends Component {
 
         </div>
       )
+    } else {
+      return (
+        null
+      )
     }
   }
 
